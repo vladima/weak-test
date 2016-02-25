@@ -1,0 +1,16 @@
+{
+  "name": "weak-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-inspector": "^0.12.6",
+    "typescript": "^1.9.0-dev.20160224",
+    "weak": "^1.0.1"
+  }
+}
